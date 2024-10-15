@@ -9,6 +9,10 @@
         Clicked="OnChangeColorButtonClicked"
         HorizontalOptions="Center"
         VerticalOptions="CenterAndExpand"/>
+            <Button Text="Ir a pagina"
+                    Clicked="OnNavigateButtonClicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"/>
         </VerticalStackLayout>
     </ScrollView>
 
